@@ -1,24 +1,106 @@
-# 💫 About Me:
-ff
+<div align="center">
 
+# 👋 Hey, I'm **Faijan**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thc-faijan) 
+### 🔐 Cybersecurity Student | Penetration Testing | Web & API Security | VAPT
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![Drupal](https://img.shields.io/badge/drupal-%230678BE.svg?style=plastic&logo=drupal&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=plastic&logo=web3.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=plastic&logo=apache-tomcat&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=plastic&logo=tor-project&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=plastic&logo=splunk&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=thc-faijan&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=thc-faijan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=thc-faijan&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=00E5FF&center=true&vCenter=true&width=850&lines=Cybersecurity+Student;Aspiring+Penetration+Tester;Web+Application+Security+Enthusiast;API+Security+%7C+VAPT+%7C+Red+Team;Python+%7C+Linux+%7C+Networking;Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Secure" alt="Typing SVG" />
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=thc-faijan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<br>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=thc-faijan&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img src="https://komarev.com/ghpvc/?username=thc-faijan&label=PROFILE+VIEWS&color=00E5FF&style=for-the-badge" alt="Profile Views"/>
+
+<a href="https://github.com/thc-faijan?tab=followers">
+<img src="https://img.shields.io/github/followers/thc-faijan?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=white&color=181717" alt="Followers"/>
+</a>
+
+<a href="https://github.com/thc-faijan?tab=repositories">
+<img src="https://img.shields.io/badge/REPOSITORIES-EXPLORE-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
+</a>
+
+<br><br>
+
+<a href="https://linkedin.com/in/thc-faijan">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/thc-faijan">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=thc-faijan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💫 About Me
+
+👋 I'm **Faijan**, a BCA Cybersecurity student passionate about understanding how modern applications, APIs, networks, and systems work — and how they can be tested and secured.
+
+I enjoy **hands-on cybersecurity**, building tools, solving security challenges, exploring vulnerabilities in legal labs, and continuously improving my technical skills.
+
+My primary interests are:
+
+- 🔐 Web Application Security
+- 🌐 API & GraphQL Security
+- 🕵️ Penetration Testing
+- 🛡️ Vulnerability Assessment & Penetration Testing
+- ⚔️ Red Teaming
+- 🤖 Security Automation
+- 🐧 Linux & Networking
+- 🧪 CTFs & Security Labs
+- 🐍 Python for Cybersecurity
+
+> **I don't just want to use security tools — I want to understand what happens underneath them.**
+
+---
+
+# 🔭 I'm Currently Working On
+
+- 🦅 Cybersecurity & VAPT automation projects
+- 🔐 Web application security labs
+- 🌐 API and GraphQL security testing
+- 🐍 Python-based security utilities
+- 🔎 Reconnaissance and enumeration workflows
+- 🧪 Practical penetration-testing labs
+- 📚 Improving real-world security testing methodology
+
+---
+
+# 👯 I'm Looking to Collaborate On
+
+- 🔐 Cybersecurity projects
+- 🛡️ VAPT tools
+- 🌐 Web security projects
+- 🔌 API security projects
+- 🤖 Security automation
+- 🧪 CTF projects
+- 🐍 Python security tools
+- 🌍 Open-source security projects
+
+---
+
+# 🤝 I'm Looking for Help With
+
+- Advanced web exploitation
+- Improving penetration-testing methodology
+- API security testing
+- Advanced reconnaissance
+- Real-world VAPT workflows
+- Red-team methodology
+- Security automation architecture
+
+---
+
+# 🌱 I'm Currently Learning
+
+```text
+🌐 Web Application Security
+🔌 API & GraphQL Security
+🛡️ VAPT
+🕵️ Penetration Testing
+🐧 Linux
+🌐 Networking
+🐍 Python Automation
+⚔️ Red Teaming
+🧪 CTF Methodology
+🔎 Reconnaissance
