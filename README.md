@@ -1,23 +1,33 @@
 <div align="center">
 
-# 👋 Hi, I'm Faijan
+# 👋 Hey, I'm **Faijan**
 
-### 🔐 Cybersecurity Student · Penetration Testing · Web Security · VAPT
+### 🔐 Cybersecurity Student | Penetration Testing | Web & API Security | VAPT
 
 <p>
-  <a href="https://github.com/thc-faijan">
-    <img src="https://komarev.com/ghpvc/?username=thc-faijan&label=Profile%20Views&color=00D9FF&style=flat" alt="Profile Views"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Cybersecurity+Student;Aspiring+Penetration+Tester;Web+%26+API+Security+Enthusiast;VAPT+%7C+Security+Automation+%7C+Red+Team;Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Secure" alt="Typing SVG" />
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=thc-fajian&label=PROFILE+VIEWS&color=00e5ff&style=for-the-badge" alt="Profile Views"/>
+  <a href="https://github.com/thc-fajian?tab=followers">
+    <img src="https://img.shields.io/github/followers/thc-fajian?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=white&color=181717" alt="Followers"/>
   </a>
-  <a href="https://github.com/thc-faijan?tab=followers">
-    <img src="https://img.shields.io/github/followers/thc-faijan?label=Followers&style=flat&color=22C55E" alt="Followers"/>
+  <a href="https://github.com/thc-fajian?tab=repositories">
+    <img src="https://img.shields.io/badge/REPOSITORIES-EXPLORE-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
   </a>
 </p>
 
 <p>
-  <a href="https://linkedin.com/in/thc-faijan">LinkedIn</a> •
-  <a href="https://medium.com/@thc_faijan">Medium</a> •
-  <a href="https://x.com/thc_faijan">X</a> •
-  <a href="https://instagram.com/thc_faijan">Instagram</a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="YOUR_MEDIUM_URL">
+    <img src="https://img.shields.io/badge/Medium-Read-000000?style=flat-square&logo=medium&logoColor=white" />
+  </a>
+  <a href="YOUR_X_URL">
+    <img src="https://img.shields.io/badge/X-Follow-000000?style=flat-square&logo=x&logoColor=white" />
+  </a>
 </p>
 
 </div>
@@ -26,277 +36,241 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **BCA Cybersecurity student** focused on learning how modern applications, networks, and systems are attacked — and how they can be secured.
+I'm a **BCA Cybersecurity student** with a strong interest in understanding how applications, APIs, networks, and systems work — and how they can be tested and secured.
 
-My primary interests are **Web Application Security, Penetration Testing, VAPT, API Security, Security Automation, and Red Teaming**.
+I enjoy learning through **hands-on labs, CTFs, security research, and building my own tools** rather than relying only on theory.
 
-I learn through hands-on labs, CTFs, security research, and building projects that turn concepts into practical skills.
+My current focus is on:
 
-> 💡 **Learn → Build → Break → Understand → Secure → Repeat.**
+- 🔐 Web Application Security
+- 🌐 API & GraphQL Security
+- 🕵️ Penetration Testing
+- 🛡️ VAPT
+- ⚔️ Red Team Fundamentals
+- 🤖 Security Automation
+- 🐧 Linux & Networking
+- 🧪 CTFs & Security Labs
+- 🐍 Python for Cybersecurity
 
----
-
-## 🎯 What I'm Up To
-
-🔭 **Currently working on**  
-Building cybersecurity projects, security automation tools, and practical VAPT labs.
-
-👯 **Looking to collaborate on**  
-Cybersecurity projects, CTFs, open-source security tools, and Web Application Security.
-
-🤝 **Looking for help with**  
-Advanced web exploitation, penetration testing methodology, and real-world security testing.
-
-🌱 **Currently learning**  
-Python, Linux, Networking, Web Security, API Security, VAPT, Bug Bounty, and Red Teaming.
-
-💬 **Ask me about**  
-Cybersecurity, Ethical Hacking, Penetration Testing, Web Security, Python, Linux, Networking, and CTFs.
-
-⚡ **Fun fact**  
-I enjoy breaking things in controlled labs to understand how they work — and then figuring out how to secure them.
+> **I don't just want to use security tools — I want to understand what happens underneath them.**
 
 ---
 
-# 🛡️ Cybersecurity Focus
+## 🔭 What I'm Currently Working On
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/Web%20Application%20Security-00D9FF?style=for-the-badge&logo=owasp&logoColor=black"/>
-<img src="https://img.shields.io/badge/Penetration%20Testing-7C3AED?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-<img src="https://img.shields.io/badge/VAPT-22C55E?style=for-the-badge&logo=hackthebox&logoColor=black"/>
-<img src="https://img.shields.io/badge/API%20Security-00D9FF?style=for-the-badge&logo=graphql&logoColor=black"/>
-<img src="https://img.shields.io/badge/Network%20Security-7C3AED?style=for-the-badge&logo=cisco&logoColor=white"/>
-<img src="https://img.shields.io/badge/Security%20Automation-22C55E?style=for-the-badge&logo=python&logoColor=black"/>
-<img src="https://img.shields.io/badge/CTF%20%26%20Security%20Labs-00D9FF?style=for-the-badge&logo=tryhackme&logoColor=black"/>
-
-</p>
+- 🦅 Building cybersecurity and VAPT automation tools
+- 🌐 Practicing Web Application & API Security
+- 🧪 Building practical penetration-testing labs
+- 🐍 Developing Python-based security utilities
+- 🔎 Improving reconnaissance and enumeration workflows
+- 📚 Strengthening real-world penetration-testing methodology
 
 ---
 
-# 🧰 Technical Skills
+## 🌱 Currently Learning
 
-### 🔐 Security & Networking
+```text
+Web Application Security    ███████████████████░  90%
+Penetration Testing         █████████████████░░░  85%
+Networking                  ████████████████░░░░  80%
+Linux                       █████████████████░░░  85%
+VAPT                        ████████████████░░░░  80%
+API Security                ███████████████░░░░░  75%
+Python Automation            ███████████████░░░░░  75%
+Red Teaming                 ████████████░░░░░░░░  60%
 
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-00D9FF?style=flat-square)
-![Metasploit](https://img.shields.io/badge/Metasploit-7C3AED?style=flat-square&logo=metasploit&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-22C55E?style=flat-square&logo=owasp&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-### 💻 Programming & Scripting
 
-![Python](https://img.shields.io/badge/Python-00D9FF?style=flat-square&logo=python&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-7C3AED?style=flat-square&logo=javascript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-22C55E?style=flat-square&logo=php&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-00D9FF?style=flat-square&logo=gnubash&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-### 🌐 Web & API Development
-
-![FastAPI](https://img.shields.io/badge/FastAPI-00D9FF?style=flat-square&logo=fastapi&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-7C3AED?style=flat-square&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-22C55E?style=flat-square&logo=django&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-00D9FF?style=flat-square&logo=nodedotjs&logoColor=black)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-7C3AED?style=flat-square&logo=jsonwebtokens&logoColor=white)
-
-### 🗄️ Databases & Infrastructure
-
-![MySQL](https://img.shields.io/badge/MySQL-00D9FF?style=flat-square&logo=mysql&logoColor=black)
-![MariaDB](https://img.shields.io/badge/MariaDB-22C55E?style=flat-square&logo=mariadb&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-22C55E?style=flat-square&logo=mongodb&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-7C3AED?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-00D9FF?style=flat-square&logo=docker&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-# 🚀 Featured Projects
-
-> 🧩 Selected projects focused on cybersecurity, automation, and practical security engineering.
-
-### 🦅 Falcon — Automated VAPT Framework
-
-A security testing framework designed to automate reconnaissance and vulnerability assessment workflows for web applications.
-
-**Focus:** `VAPT` · `Web Security` · `Reconnaissance` · `Automation` · `OWASP`
-
-🔗 [View Repository](https://github.com/thc-faijan)
-
----
-
-### 🔑 Python Password Generator
-
-A Python project for generating customizable passwords while exploring password-strength principles, file handling, and basic software testing.
-
-**Focus:** `Python` · `Password Security` · `CLI` · `File Handling` · `Testing`
-
-🔗 [View Repository](https://github.com/thc-faijan)
-
----
-
-### ⚡ RapidScan
-
-A lightweight network reconnaissance project built to explore port scanning, service discovery, and networking fundamentals.
-
-**Focus:** `Python` · `Networking` · `Port Scanning` · `Reconnaissance`
-
-🔗 [View Repository](https://github.com/thc-faijan)
-
----
-
-# 📊 GitHub Analytics
-
+🛡️ Cybersecurity Arsenal
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=thc-faijan&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thc-faijan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
-
----
-
-# 🔥 Contribution Streak
-
+🔎 Reconnaissance
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge" /> <img src="https://img.shields.io/badge/Subfinder-111111?style=for-the-badge" /> <img src="https://img.shields.io/badge/Amass-111111?style=for-the-badge" /> <img src="https://img.shields.io/badge/httpx-111111?style=for-the-badge" /> <img src="https://img.shields.io/badge/OSINT-37474F?style=for-the-badge" />
+🌐 Web & API Security
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" /> <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" /> <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" /> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+⚔️ Security Testing
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge" /> <img src="https://img.shields.io/badge/SQLmap-111111?style=for-the-badge" /> <img src="https://img.shields.io/badge/FFUF-111111?style=for-the-badge" /> <img src="https://img.shields.io/badge/Gobuster-111111?style=for-the-badge" /> <img src="https://img.shields.io/badge/Feroxbuster-111111?style=for-the-badge" /> <img src="https://img.shields.io/badge/Hydra-111111?style=for-the-badge" />
+🔐 Password & Network Analysis
+<img src="https://img.shields.io/badge/Hashcat-111111?style=for-the-badge" /> <img src="https://img.shields.io/badge/John%20the%20Ripper-111111?style=for-the-badge" /> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/Netcat-111111?style=for-the-badge" /> </div>
+💻 Tech Stack
 <div align="center">
+Languages
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,bash&theme=dark" />
+Web & Backend
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,php,django,flask,fastapi&theme=dark" />
+Databases
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql&theme=dark" />
+Operating Systems & Infrastructure
+<img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,windows,docker,apache,nginx&theme=dark" />
+Development
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" /> </div>
+🧠 Security Knowledge
+Area	What I'm Practicing
+🌐 Web Security	OWASP Top 10, Authentication, Authorization, Sessions, Injection, XSS, SSRF
+🔌 API Security	REST, GraphQL, JWT, BOLA/IDOR, Access Control, Enumeration
+🔎 Reconnaissance	DNS, Subdomains, Ports, Services, HTTP Enumeration, OSINT
+🛡️ VAPT	Recon → Enumeration → Vulnerability Discovery → Validation → Reporting
+⚔️ Red Team	Reconnaissance, Enumeration, Initial Access Concepts, Privilege Escalation
+🐧 Linux	CLI, Permissions, Processes, Networking, Bash
+🌐 Networking	TCP/IP, DNS, HTTP/HTTPS, Ports, Protocols, Subnetting
+🐍 Automation	Python scripting, scanners, enumeration and security utilities
+🚀 Featured Projects
+<div align="center"> <a href="https://github.com/thc-fajian"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=thc-fajian&repo=Falcon&theme=tokyonight&hide_border=true" /> </a> <a href="https://github.com/thc-fajian"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=thc-fajian&repo=RapidScan&theme=tokyonight&hide_border=true" /> </a> </div>
+🦅 Falcon — Automated VAPT Framework
 
-<img src="https://streak-stats.demolab.com/?user=thc-faijan&theme=tokyonight&hide_border=true" width="80%"/>
+A cybersecurity project focused on automating parts of the vulnerability assessment and penetration-testing workflow.
 
-</div>
+Focus: Reconnaissance • Enumeration • Web Security • OWASP • API Security • Reporting
 
----
+⚡ RapidScan
 
-# 📈 Contribution Activity
+A lightweight security-focused scanning and enumeration project built to explore network reconnaissance and automation.
 
+Focus: Port Scanning • Service Discovery • Enumeration • Automation
+
+🔐 Python Password Generator
+
+A Python security utility for generating strong randomized passwords while practicing programming fundamentals, validation, file handling, and testing.
+
+📌 More projects are available in my repositories.
+
+🧪 Hands-On Practice
+<div align="center"> <a href="https://tryhackme.com/"> <img src="https://img.shields.io/badge/TryHackMe-Practice-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" /> </a> <a href="https://portswigger.net/web-security"> <img src="https://img.shields.io/badge/PortSwigger-Web%20Security-FF6633?style=for-the-badge&logo=portswigger&logoColor=white" /> </a> <a href="https://www.hackthebox.com/"> <img src="https://img.shields.io/badge/Hack%20The%20Box-Labs-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" /> </a> </div>
+Areas I Practice
+Web Application Security
+API Security
+Linux
+Networking
+Reconnaissance
+Enumeration
+CTFs
+Vulnerability Assessment
+Penetration Testing
+Security Automation
+🏆 GitHub Achievements
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=thc-fajian&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=5" alt="GitHub Trophies" /> </div>
+📊 GitHub Analytics
+<div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=thc-fajian&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="GitHub Statistics" /> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thc-fajian&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" alt="Top Languages" /> </div>
+🔥 Contribution Streak
+<div align="center"> <img src="https://streak-stats.demolab.com?user=thc-fajian&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Contribution Streak" /> </div>
+📈 Contribution Activity
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=thc-fajian&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution Activity Graph" /> </div>
+📋 GitHub Profile Overview
+<div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thc-fajian&theme=tokyonight" width="95%" alt="Profile Details" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thc-fajian&theme=tokyonight" width="31%" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thc-fajian&theme=tokyonight" width="31%" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thc-fajian&theme=tokyonight" width="31%" /> </div>
+📅 Contribution Calendar
+<div align="center"> <img src="https://ghchart.rshah.org/0e75b6/thc-fajian" alt="GitHub Contribution Calendar" /> </div>
+🐍 Contribution Snake
+<div align="center"> <img src="https://raw.githubusercontent.com/thc-fajian/thc-fajian/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" /> </div>
+🧭 My Cybersecurity Workflow
+                    🎯 TARGET
+                       │
+                       ▼
+                🔎 RECONNAISSANCE
+                       │
+                       ▼
+                  📡 ENUMERATION
+                       │
+                       ▼
+              🧩 ATTACK SURFACE
+                       │
+                       ▼
+             🧪 VULNERABILITY TESTING
+                       │
+                       ▼
+                💥 VALIDATION
+                       │
+                       ▼
+                 📋 REPORTING
+                       │
+                       ▼
+                  🛡️ REMEDIATION
+                       │
+                       ▼
+                    🔁 RETEST
+
+The goal isn't simply to find vulnerabilities — it's to understand why they exist, how they can be validated, and how they can be fixed.
+
+🗺️ Cybersecurity Learning Path
+Networking
+     │
+     ▼
+Linux
+     │
+     ▼
+Python
+     │
+     ▼
+Web Fundamentals
+     │
+     ▼
+Web Security
+     │
+     ├──────────────► API Security
+     │
+     ▼
+Penetration Testing
+     │
+     ▼
+VAPT
+     │
+     ▼
+Red Teaming
+     │
+     ▼
+Security Engineering
+🤝 Looking to Collaborate On
+
+I'm open to collaborating on:
+
+🔐 Cybersecurity projects
+🌐 Web & API security
+🛡️ VAPT tools
+🤖 Security automation
+🧪 CTF projects
+🔎 OSINT / reconnaissance tools
+🐍 Python security projects
+🌍 Open-source security projects
+💬 Ask Me About
+🔐 Cybersecurity
+🌐 Web Application Security
+🔌 API Security
+🛡️ VAPT
+🕵️ Penetration Testing
+🐧 Linux
+🌐 Networking
+🐍 Python
+🧪 CTFs
+🤖 Security Automation
+⚡ Fun Fact
+
+I enjoy breaking things in labs just to understand how they work —
+then figuring out how to make them more secure. 🔐
+
+🎯 2026 Goals
+ Become job-ready in Penetration Testing
+ Deepen Web Application Security knowledge
+ Improve API & GraphQL security skills
+ Build advanced VAPT automation
+ Strengthen Python for cybersecurity
+ Improve networking & Linux skills
+ Learn Active Directory security
+ Participate in more CTFs
+ Contribute to open-source security projects
+ Publish practical security write-ups
+ Build a strong cybersecurity portfolio
+ Land a cybersecurity role 🚀
+🌐 Connect
+<div align="center"> <a href="YOUR_LINKEDIN_URL"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="YOUR_MEDIUM_URL"> <img src="https://img.shields.io/badge/Medium-Read-000000?style=for-the-badge&logo=medium&logoColor=white" /> </a> <a href="YOUR_X_URL"> <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" /> </a> <a href="YOUR_INSTAGRAM_URL"> <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> <a href="https://github.com/thc-fajian"> <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </div>
 <div align="center">
+🔐 Learn. Build. Break. Secure.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=1200&color=00E5FF&center=true&vCenter=true&width=650&lines=Stay+Curious.;Think+Like+an+Attacker.;Build+Like+an+Engineer.;Secure+Like+a+Defender." alt="Footer Typing" /> <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thc-faijan&bg_color=0D1117&color=00D9FF&line=22C55E&point=7C3AED&area=true&hide_border=true" width="95%"/>
+⭐ If you find something useful here, consider starring the repository.
 
-</div>
+<br><br>
 
----
-
-# 📅 Contribution Calendar
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/00D9FF/thc-faijan" alt="GitHub Contribution Calendar" width="95%"/>
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=thc-faijan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" width="95%"/>
-
-</div>
-
----
-
-# 🧪 Cybersecurity Journey
-
-<div align="center">
-
-| 🔐 Area | 🎯 Focus |
-|---|---|
-| 🌐 **Web Security** | OWASP Top 10 · Authentication · Access Control · Injection |
-| 🔎 **Reconnaissance** | Asset Discovery · Enumeration · Service Identification |
-| 🧪 **VAPT** | Vulnerability Discovery · Validation · Reporting |
-| 🔑 **API Security** | REST · GraphQL · Authentication · Authorization |
-| 🐧 **Linux** | CLI · Administration · Security Tools |
-| 🌐 **Networking** | TCP/IP · DNS · HTTP/S · Ports & Protocols |
-| 🧩 **CTFs** | Enumeration · Web Exploitation · Privilege Escalation |
-| ⚙️ **Automation** | Python · Bash · Security Tooling |
-
-</div>
-
----
-
-# 📚 Learning & Practice
-
-### 🧑‍💻 Hands-on Platforms
-
-<p align="center">
-
-<a href="https://tryhackme.com/">
-<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
-</a>
-
-<a href="https://portswigger.net/web-security">
-<img src="https://img.shields.io/badge/PortSwigger%20Web%20Security%20Academy-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-</a>
-
-</p>
-
-I use hands-on labs and security challenges to strengthen my understanding of:
-
-`Reconnaissance` · `Web Exploitation` · `Authentication` · `Authorization` · `API Security` · `Networking` · `Linux` · `Privilege Escalation`
-
----
-
-# 🏅 Achievements & Experience
-
-- 🎓 **BCA — Cybersecurity**
-- 🛡️ **Cybersecurity Internship Experience**
-- 🧪 Hands-on cybersecurity labs and CTF practice
-- 🌐 Web Security Academy practice
-- 🏆 Cybersecurity learning paths and challenges
-- 🔧 Security-focused personal projects
-
----
-
-# 📫 Let's Connect
-
-<div align="center">
-
-<a href="https://linkedin.com/in/thc-faijan">
-<img src="https://img.shields.io/badge/LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
-</a>
-
-<a href="https://medium.com/@thc_faijan">
-<img src="https://img.shields.io/badge/Medium-7C3AED?style=for-the-badge&logo=medium&logoColor=white"/>
-</a>
-
-<a href="https://x.com/thc_faijan">
-<img src="https://img.shields.io/badge/X-22C55E?style=for-the-badge&logo=x&logoColor=black"/>
-</a>
-
-<a href="https://instagram.com/thc_faijan">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://discord.gg/thc_faijan">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
-
-<a href="https://reddit.com/user/thc-faijan">
-<img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 🔐 Security is a mindset, not just a skill.
-
-**Thanks for visiting my profile!**
-
-⭐ Feel free to explore my repositories and connect with me.
-
-</div>
-
-<!-- 🐍 Contribution Snake -->
-
-<div align="center">
-
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient" width="100%" /> </div> ```
