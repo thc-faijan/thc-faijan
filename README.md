@@ -1,36 +1,26 @@
-<!-- ========================================================= -->
-<!--                    FAijan | GitHub Profile                 -->
-<!-- ========================================================= -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=FAIJAN&fontSize=70&fontAlignY=35&desc=CYBERSECURITY%20%7C%20PENETRATION%20TESTING%20%7C%20WEB%20SECURITY&descAlignY=58&animation=fadeIn&fontColor=ffffff&color=0:0f2027,50:203a43,100:2c5364" width="100%"/>
-
-</div>
-
 <div align="center">
 
 # 👋 Hi, I'm Faijan
 
-### 🔐 Cybersecurity Student | Penetration Tester in Progress | Web Security | VAPT
+### 🔐 Cybersecurity Student • Penetration Testing • Web Security • VAPT
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=thc-faijan&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/thc-faijan?label=FOLLOWERS&style=for-the-badge&color=181717&logo=github"/>
-<img src="https://img.shields.io/github/stars/thc-faijan?label=TOTAL%20STARS&style=for-the-badge&color=yellow&logo=github"/>
-</p>
+<img src="https://komarev.com/ghpvc/?username=thc-fajian&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 
-<p>
-<a href="https://github.com/thc-faijan">
-<img src="https://img.shields.io/badge/GitHub-thc--faijan-181717?style=for-the-badge&logo=github"/>
+<br>
+
+<a href="https://github.com/thc-fajian">
+  <img src="https://img.shields.io/github/followers/thc-fajian?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers"/>
 </a>
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+<a href="https://github.com/thc-fajian?tab=stars">
+  <img src="https://img.shields.io/github/stars/thc-fajian?affiliations=OWNER&style=for-the-badge&logo=github" alt="GitHub Stars"/>
 </a>
-<a href="https://tryhackme.com/">
-<img src="https://img.shields.io/badge/TryHackMe-Labs-212C42?style=for-the-badge&logo=tryhackme"/>
+<a href="https://github.com/thc-fajian?tab=repositories">
+  <img src="https://img.shields.io/badge/Public%20Repositories-11-181717?style=for-the-badge&logo=github" alt="Repositories"/>
 </a>
-</p>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Cybersecurity+Student;Penetration+Testing+Enthusiast;Web+Application+Security;VAPT+%7C+API+Security;Ethical+Hacking+%7C+Red+Team;Security+Automation;Always+Learning+%7C+Always+Building" alt="Typing SVG"/>
 
 </div>
 
@@ -38,21 +28,42 @@
 
 # 🧑‍💻 About Me
 
-I'm a **BCA Cybersecurity student** building practical skills in offensive security, web application security, penetration testing and security automation.
+I'm a **BCA Cybersecurity student** focused on understanding how modern applications, APIs, networks, and systems are attacked — and how they can be secured.
 
-I enjoy understanding **how systems break, why vulnerabilities exist, and how they can be secured**.
+My main interests include:
 
-My learning approach:
+- 🔐 Web Application Security
+- 🕵️ Penetration Testing
+- 🛡️ Vulnerability Assessment & Penetration Testing (VAPT)
+- 🌐 API Security
+- ⚔️ Red Teaming
+- 🤖 Security Automation
+- 🔎 OSINT
+- 🧪 CTFs & Security Labs
+- 🐧 Linux & Networking
+- 💻 Secure Software Development
+
+I prefer **hands-on learning** over just theory.
+
+> 💡 **Learn → Build → Break → Understand → Secure → Repeat**
+
+---
+
+# 🎯 Current Focus
 
 ```text
-        LEARN
-          ↓
-        BUILD
-          ↓
-        BREAK
-          ↓
-      UNDERSTAND
-          ↓
-        SECURE
-          ↓
-        REPEAT
+┌─────────────────────────────────────────────────────────────┐
+│                    CYBERSECURITY JOURNEY                    │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  🌐 Web Security              ███████████████████░  90%      │
+│  🔐 Penetration Testing       █████████████████░░░  85%      │
+│  🛡️ VAPT                      ████████████████░░░░  80%      │
+│  🔑 API Security              ███████████████░░░░░  75%      │
+│  🐧 Linux                     █████████████████░░░  85%      │
+│  🌐 Networking                ████████████████░░░░  80%      │
+│  🐍 Python                    ███████████████░░░░░  75%      │
+│  ⚔️ Red Teaming               ████████████░░░░░░░░  60%      │
+│  🤖 Security Automation       ███████████░░░░░░░░░  55%      │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
