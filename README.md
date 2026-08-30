@@ -157,6 +157,20 @@ A lightweight network reconnaissance project built to explore port scanning, ser
 
 </div>
 
+----
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats-amber-one-20.vercel.app/api?username=thc-faijan&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" height="180"/>
+
+<img src="https://github-readme-stats-amber-one-20.vercel.app/api/top-langs/?username=thc-faijan&layout=compact&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" height="180"/>
+
+</div>
+----
+
+
 ---
 
 # 🔥 Contribution Streak
