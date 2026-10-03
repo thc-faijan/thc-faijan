@@ -1,46 +1,47 @@
-
 # Hi, I'm Faijan Ansari 👋
 
-### Cybersecurity | Web Application Security | WAPT / VAPT
+### Cybersecurity Student | Web Application Security | WAPT / VAPT
 
-I'm a **final-year BCA Cybersecurity student** focused on **Web Application Penetration Testing, Vulnerability Assessment & Penetration Testing, and Offensive Security**.
+I'm a **final-year BCA Cybersecurity student** focused on **Web Application Penetration Testing (WAPT), Vulnerability Assessment & Penetration Testing (VAPT), and Offensive Security**.
 
-I enjoy understanding how web applications and APIs work, identifying security weaknesses in authorized environments, validating vulnerabilities, and documenting practical remediation.
+I enjoy breaking down how web applications and APIs work, identifying security weaknesses, validating vulnerabilities in authorized environments, and documenting findings with practical remediation.
 
 ---
 
-## 🎯 What I'm Focused On
+## 🛡️ Areas of Focus
 
 * 🌐 Web Application Security
 * 🔐 WAPT / VAPT
-* 🛡️ Application Security
+* 🔑 Authentication & Authorization Testing
+* 🧩 API Security
 * 🔎 Reconnaissance & Attack Surface Discovery
-* 🧪 Security Testing & Vulnerability Research
+* 🧪 Vulnerability Assessment & Exploitation
 * ⚙️ Security Automation
+* 📝 Security Documentation & Reporting
 
 ---
 
-## 🧰 Security Toolkit
+## 🧰 Technical Skills
 
-### Web & Security Testing
+### 🔍 Security Testing
 
 `Burp Suite` `OWASP ZAP` `Nmap` `ffuf` `Feroxbuster` `SQLmap`
 
-### Reconnaissance
+### 🌐 Reconnaissance
 
 `Subfinder` `httpx` `Amass`
 
-### Offensive Security
+### ⚔️ Offensive Security
 
 `Metasploit` `Hydra` `Hashcat` `John the Ripper`
 
-### Programming & Scripting
+### 💻 Programming & Scripting
 
 `Python` `Bash` `SQL` `JavaScript`
 
-### Platforms & Tools
+### 🐧 Platforms & Tools
 
-`Kali Linux` `Git` `GitHub` `TryHackMe`
+`Kali Linux` `Linux` `Git` `GitHub` `TryHackMe`
 
 ---
 
@@ -48,69 +49,97 @@ I enjoy understanding how web applications and APIs work, identifying security w
 
 ### 🔎 Port Scanner
 
-A Python-based network reconnaissance project for discovering accessible TCP services on authorized hosts.
+A Python-based network reconnaissance tool designed to identify accessible TCP services on authorized hosts.
 
-**Focus:** Network Reconnaissance • TCP • Python • Security Testing
+**Technologies:** `Python` `TCP Sockets` `Network Reconnaissance`
 
 ---
 
 ### 🔐 S3CUR3-PASS-G3N
 
-A Python-based secure password generator using the `secrets` module for cryptographically secure random password generation.
+A secure password generator built with Python's `secrets` module, featuring configurable password generation, validation, testing, and CI automation.
 
-**Focus:** Python • Cryptography • Secure Randomness • Testing
-
----
-
-### 🖥️ Security Portfolio
-
-My personal cybersecurity portfolio showcasing my projects, technical interests, security work, and learning journey.
-
-**Focus:** Cybersecurity • Web Security • Portfolio Development
+**Technologies:** `Python` `secrets` `Pytest` `GitHub Actions`
 
 ---
 
-## 🧪 Hands-on Practice
+### 🌐 Security Portfolio
 
-* TryHackMe security labs
+A personal cybersecurity portfolio showcasing security projects, technical work, learning progress, and areas of expertise.
+
+**Technologies:** `Next.js` `React` `TypeScript` `Tailwind CSS`
+
+---
+
+## 🧪 Hands-on Security Practice
+
 * Web application security labs
-* CTF challenges
-* Linux & networking practice
-* Security automation projects
+* API security testing
+* TryHackMe labs and CTFs
+* Linux & networking
+* Reconnaissance and enumeration
 * Vulnerability research
-* Penetration-testing exercises
+* Security automation
+* Penetration-testing methodology
+* Technical security reporting
 
 ---
 
 ## 📚 Currently Learning
 
-* Advanced Web Application Security
-* API Security
-* Authentication & Authorization Testing
-* Business Logic Vulnerabilities
-* Security Testing Methodology
-* Python & Bash Automation
-
----
-
-## 📈 My Approach
-
 ```text
-Learn → Practice → Test → Document → Improve
+Advanced Web Application Security
+        ↓
+API Security & Authorization Testing
+        ↓
+Business Logic Vulnerabilities
+        ↓
+Advanced Burp Suite Techniques
+        ↓
+Security Automation with Python & Bash
 ```
 
-I believe cybersecurity is best learned through **consistent hands-on practice, responsible testing, and clear documentation**.
+---
+
+## 🧠 Security Methodology
+
+```text
+Reconnaissance
+      ↓
+Attack Surface Mapping
+      ↓
+Enumeration
+      ↓
+Vulnerability Discovery
+      ↓
+Validation & Exploitation
+      ↓
+Impact Analysis
+      ↓
+Reporting & Remediation
+```
+
+I believe effective security testing is not just about finding vulnerabilities — it's about **understanding their impact, validating them responsibly, and communicating how they can be fixed.**
 
 ---
 
-## 📫 Connect With Me
+## 📂 What You'll Find Here
 
-💼 **LinkedIn:** Coming soon
-
-🌐 **Portfolio:** Coming soon
-
-📧 **Email:** Coming soon
+🔹 Security tools & automation projects
+🔹 Web application security projects
+🔹 Penetration-testing write-ups
+🔹 Security research & notes
+🔹 Python and Bash security scripts
+🔹 CTF and hands-on lab work
 
 ---
 
-> **Learn. Practice. Secure.**
+## 📫 Connect
+
+<p align="left">
+  <a href="https://github.com/thc-faijan">
+    <img src="https://img.shields.io/badge/GitHub-thc--faijan-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
+
+> **Learn. Practice. Secure. 🔐**
